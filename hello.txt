@@ -13,4 +13,4 @@ hello kikato! hello git!
 hello kikato! hello git!
 hello kikato! hello git!
 hello kikato! hello git!
-hello kikato! hello git!
+hello kikato! hello git! hot-fix test
