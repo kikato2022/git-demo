@@ -12,5 +12,5 @@ hello kikato! hello git!
 hello kikato! hello git!
 hello kikato! hello git!
 hello kikato! hello git!
-hello kikato! hello git!
+hello kikato! hello git! master test
 hello kikato! hello git!
